@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@rafiahmed0471" target="blank"><img src="https://img.shields.io/twitter/follow/@rafiahmed0471?logo=twitter&style=for-the-badge" alt="@rafiahmed0471" /></a> </p>
 
-- 🌱 I’m currently learning **Redux toolkit**
+- 🌱 I’m currently learning **Object Oriented Programming**
 
 - 💬 Ask me about **JavaScript, React, Mongodb, React Native**
 
