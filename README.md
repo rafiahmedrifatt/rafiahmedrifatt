@@ -1,10 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Rafi Ahmed Rifat</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiahmed47&label=Profile%20views&color=0e75b6&style=flat" alt="rafiahmed47" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiahmed47" alt="rafiahmed47" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@rafiahmed0471" target="blank"><img src="https://img.shields.io/twitter/follow/@rafiahmed0471?logo=twitter&style=for-the-badge" alt="@rafiahmed0471" /></a> </p>
 
 - 🌱 I’m currently learning **Object Oriented Programming**
