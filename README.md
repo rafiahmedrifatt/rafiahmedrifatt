@@ -8,9 +8,7 @@
 <p align="left"> <a href="https://twitter.com/@rafiahmed0471" target="blank"><img src="https://img.shields.io/twitter/follow/@rafiahmed0471?logo=twitter&style=for-the-badge" alt="@rafiahmed0471" /></a> </p>
 
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafiahmedrifatt&theme=github-dark-dimmed&custom_title=Rafiahmedrifatt%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)]
-
-```yaml
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafiahmedrifatt&theme=github-dark-dimmed&custom_title=%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)]
 
 - 🌱 I’m currently learning **Object Oriented Programming**
 
