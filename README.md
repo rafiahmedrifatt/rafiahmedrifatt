@@ -8,6 +8,9 @@
 - 💬 Ask me about **JavaScript, React, Mongodb, React Native**
 
 - 📫 How to reach me **rafiahmed0471@gmail.com**
+  <!-- Social media badges with links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafiahmedrifatt)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/rafi.ahmed.rifatt/)
 
 
 <h3 align="left">Languages and Tools:</h3>
