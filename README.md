@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Rafi Ahmed Rifat</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
-<p align="left"> <a href="https://twitter.com/@rafiahmed0471" target="blank"><img src="https://img.shields.io/twitter/follow/@rafiahmed0471?logo=twitter&style=for-the-badge" alt="@rafiahmed0471" /></a> </p>
-
 - 🌱 I’m currently learning **Object Oriented Programming**
 
 - 💬 Ask me about **JavaScript, React, Mongodb, React Native**
