@@ -1,4 +1,5 @@
-<img src="https://github.com/rafiahmedrifatt/rafiahmedrifatt/blob/main/developer.png" alt="" />
+<div align="center">
+  <img src="https://github.com/rafiahmedrifatt/rafiahmedrifatt/blob/main/developer.png" alt="" />
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> I'm Rafi Ahmed Rifat</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
@@ -22,3 +23,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rafiahmedrifatt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Rafi's github stats](https://github-readme-stats.vercel.app/api?username=rafiahmedrifatt&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+</div>
